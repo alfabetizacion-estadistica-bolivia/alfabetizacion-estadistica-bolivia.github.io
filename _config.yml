@@ -2,7 +2,7 @@ url: https://alfabetizacion-estadistica-bolivia.github.io/
 baseurl: https://alfabetizacion-estadistica-bolivia.github.io/
 # Site settings
 title: Alfabetización Estadística
-email: islp.bolivia@gmail.com
+email: mailto:islp.bolivia@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
@@ -47,12 +47,6 @@ social:
     url: http://twitter.com/jekyllrb
   - title: facebook
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
