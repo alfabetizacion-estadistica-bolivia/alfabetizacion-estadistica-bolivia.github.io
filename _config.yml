@@ -13,33 +13,29 @@ people:
   position: Lead Designer
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/ineoficialbo?lang=es
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://www.facebook.com/ineboliviaoficial/
 
 - name: Carrera de Estadística - UMSA
   pic: stat
   position: Lead Marketer
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+      url: https://www.facebook.com/Carrera-de-Estad%C3%ADstica-UMSA-1268600956524094/
+    - title: google-plus
+      url: http://www.universia.com.bo/estudios/umsa/estadistica/st/177521
 
 - name: Fundación Aru
   pic: arulogo
   position: Lead Developer
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/arufoundation?lang=es
     - title: facebook
-      url: #
+      url: https://www.facebook.com/FundacionARU
     - title: google-plus
-      url: #
+      url: https://www.aru.org.bo/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

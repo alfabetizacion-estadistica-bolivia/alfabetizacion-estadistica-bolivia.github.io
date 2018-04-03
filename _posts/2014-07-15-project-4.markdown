@@ -1,15 +1,41 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: PREMIACIÓN
+subtitle: 
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+description: 
 
 ---
+
+Serán premiados los 3 primeros lugares en cada categoría, los premios consisten en:
+
+#### Categoría Bernoulli:
+
+- Primer lugar: 2000 Bs. + Material de patrocinadores.
+
+- Segundo lugar: 1000 Bs. + Material de patrocinadores.
+
+- Tercer lugar: Material de patrocinadores.
+
+#### Categoría Poisson:
+
+- Primer lugar: 2000 Bs. + Ingreso directo a la Carrera de Estadística de la Universidad Mayor de San Andres + Material de patrocinadores.
+
+- Segundo lugar: 1000 Bs. + Ingreso directo a la Carrera de Estadística de la Universidad Mayor de San Andres + Material de patrocinadores.
+
+- Tercer lugar: Material de patrocinadores.
+
+#### Categoría Gauss:
+
+- Primer lugar: 2000 Bs. + Material de patrocinadores.
+
+- Segundo lugar: 1000 Bs. + Material de patrocinadores.
+
+- Tercer lugar: Material de patrocinadores.
+
+
+La entrega de premios a los ganadores se realizara el  ------ en ------  
