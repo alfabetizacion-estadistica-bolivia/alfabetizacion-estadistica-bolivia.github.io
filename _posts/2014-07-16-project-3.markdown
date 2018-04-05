@@ -38,6 +38,8 @@ description:
   * Los gráficos deben tener un título y fuente, con un comentario.
   * El texto empleado debe ser simple, explicando la historia de los datos y sus conclusiones.
   
-####  Envió del poster 
+  
+#### Envió del poster 
+
  
-#####  Los poster en formato digital o electrónico deben ser enviados al correo islp.bolivia@gmail.com
+##### Los poster en formato digital o electrónico deben ser enviados al correo islp.bolivia@gmail.com
