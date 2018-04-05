@@ -22,22 +22,22 @@ de temas de investigación plasmadas en un póster.
 
 - Podrán participar estudiantes de colegio y estudiantes del pregrado de las universidades públicas o privadas, con la orientación y el asesoramiento de profesores, especialistas o investigadores.
 
-- Los equipos de trabajo deben estar conformados de 2 a 5 estudiantes más un docente o guía 
+- Los equipos de trabajo deben estar conformados de 2 a 5 estudiantes más un docente o guía.
 
 - Los equipos pueden participar en una de las siguientes categorías:
 	
-  1. Categoría Bernoulli: Estudiantes de colegio nacidos en 2003 hacia adelante
+  1. Categoría Bernoulli: Estudiantes de colegio nacidos en 2003 hacia adelante.
   
-  2. Categoría Poisson: Estudiantes de colegio nacidos en elos años 2000, 2001 y 2002 
+  2. Categoría Poisson: Estudiantes de colegio nacidos en elos años 2000, 2001 y 2002.
 	
-  3. Categoría Gauss: Estudiantes del pregrado de universidades sin limite de edad 
+  3. Categoría Gauss: Estudiantes del pregrado de universidades sin limite de edad. 
 
-- Al enviar un póster, los estudiantes dan permiso para que su trabajo se muestre en la Conferencia del ISI en Malasia en agosto de 2019, eventos especiales, en publicaciones y material de promoción, y en formato electrónico en Internet
+- Al enviar un póster, los estudiantes dan permiso para que su trabajo se muestre en la Conferencia del ISI en Malasia en agosto de 2019, eventos especiales, en publicaciones y material de promoción, y en formato electrónico en Internet.
   
-- La inscripción a la competencia es libre y gratuita
+- La inscripción a la competencia es libre y gratuita.
 
 
-#### Registro del poster
+#### Inscripción de los equipos de trabajo
 
- El registro de los equipos interesados en participar, debe ser realizado por el docente que forma parte del equipo de trabajo, en:
+ La inscripción de los equipos de trabajo y el registro del poster, debe ser realizado por el docente que forma parte del equipo de trabajo, en:
  https://alfabetizacion-estadistica-bolivia.github.io
