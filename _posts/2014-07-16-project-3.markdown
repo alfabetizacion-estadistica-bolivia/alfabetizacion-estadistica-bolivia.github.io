@@ -39,7 +39,6 @@ description:
   * El texto empleado debe ser simple, explicando la historia de los datos y sus conclusiones.
   
   
-#### Envió del poster 
+<b> Envió del poster </b>
 
- 
-##### Los poster en formato digital o electrónico deben ser enviados al correo islp.bolivia@gmail.com
+ Los poster en formato digital o electrónico deben ser enviados al correo <b> islp.bolivia@gmail.com </b>
