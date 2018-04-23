@@ -1,0 +1,21 @@
+---
+title: PAUTAS PARA HACER UN POSTER ESTADÍSTICO
+subtitle: 
+layout: default
+modal-id: 6
+date: 2014-07-15
+thumbnail: roundicons-thumbnail.png
+
+description: 
+
+---
+
+<html>
+<body>
+<embed src="img/guia.pdf" width="950" height="650">
+</body>
+</html>
+
+
+
+
