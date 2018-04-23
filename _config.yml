@@ -16,14 +16,15 @@ people:
       url: https://twitter.com/ineoficialbo?lang=es
     - title: facebook
       url: https://www.facebook.com/ineboliviaoficial/
-
+    - title: dribbble
+      url: https://www.ine.gob.bo/
 - name: Carrera de Estadística 
   pic: stat
   position: Universidad Mayor de San Andrés
   social:
     - title: facebook
       url: https://www.facebook.com/Carrera-de-Estad%C3%ADstica-UMSA-1268600956524094/
-    - title: google-plus
+    - title: dribbble
       url: http://www.universia.com.bo/estudios/umsa/estadistica/st/177521
 
 - name: Fundación Aru
