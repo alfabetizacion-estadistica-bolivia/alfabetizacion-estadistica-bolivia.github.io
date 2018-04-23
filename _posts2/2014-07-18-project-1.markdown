@@ -1,0 +1,15 @@
+---
+title: CONVOCATORIA
+subtitle: 
+layout: default
+modal-id: 1
+date: 2014-07-18
+thumbnail: dreams-thumbnail.png
+description:
+
+---
+<html>
+<body>
+<embed src="img/cartel.pdf" width="950" height="650">
+</body>
+</html>
