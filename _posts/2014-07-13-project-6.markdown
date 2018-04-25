@@ -1,5 +1,5 @@
 ---
-title: PAUTAS PARA HACER UN POSTER ESTADÍSTICO
+title: POSTERS DE LA COMPETENCIA INTERNACIONAL PASADA
 subtitle: 
 layout: default
 modal-id: 6
@@ -10,12 +10,37 @@ description:
 
 ---
 
-<html>
-<body>
-<embed src="img/guia.pdf" width="950" height="650">
-</body>
-</html>
 
+Para ver mas posters puedes visitar la pagina: 
+<a href="http://iase-web.org/islp/Poster_Competition_2016-2017.php?p=Posters"> http://iase-web.org/islp/Poster_Competition_2016-2017.php?p=Posters </a>
 
+<br>
+
+ <div class="row text-left">
+                <div class="col-md-6">
+                    <img class="img-rounded img-responsibe" src="img/poster/japon.jpg" alt="" width="300" height="350">
+                    <h4 class="service-heading">1. Japon</h4>
+                </div>
+                <div class="col-md-6">
+                    <img class="img-rounded img-responsibe" src="img/poster/rusia.jpg" alt="" width="380" height="300">
+                    <h4 class="service-heading">2. Rusia</h4>
+                </div>
+               
+            </div>	
+			
+<br>
+
+ <div class="row text-center">
+                <div class="col-md-6">
+                    <img class="img-rounded img-responsibe" src="img/poster/mexico.jpg" alt="" width="360" height="260">
+                    <h4 class="service-heading">3. Mexico</h4>
+					
+                </div>
+                <div class="col-md-6">
+                    <img class="img-rounded img-responsibe" src="img/poster/finland.jpg" alt="" width="360" height="260">
+                     <h4 class="service-heading"> 4. Finlandia</h4> 
+                </div>
+               
+            </div>
 
 

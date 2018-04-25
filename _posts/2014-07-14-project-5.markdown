@@ -1,5 +1,5 @@
 ---
-title: POSTERS DE LA COMPETENCIA INTERNACIONAL PASADA
+title: PREMIACIÓN
 subtitle: 
 layout: default
 modal-id: 5
@@ -8,35 +8,32 @@ thumbnail: startup-framework-thumbnail.png
 
 description: 
 ---
-Para ver mas posters puedes visitar la pagina: 
-<a href="http://iase-web.org/islp/Poster_Competition_2016-2017.php?p=Posters"> http://iase-web.org/islp/Poster_Competition_2016-2017.php?p=Posters </a>
 
-<br>
-
- <div class="row text-left">
-                <div class="col-md-6">
-                    <img class="img-rounded img-responsibe" src="img/poster/japon.jpg" alt="" width="300" height="350">
-                    <h4 class="service-heading">1. Japon</h4>
-                </div>
-                <div class="col-md-6">
-                    <img class="img-rounded img-responsibe" src="img/poster/rusia.jpg" alt="" width="380" height="300">
-                    <h4 class="service-heading">2. Rusia</h4>
-                </div>
-               
-            </div>	
 			
-<br>
+Serán premiados los 3 primeros lugares en cada categoría, los premios consisten en:
 
- <div class="row text-center">
-                <div class="col-md-6">
-                    <img class="img-rounded img-responsibe" src="img/poster/mexico.jpg" alt="" width="360" height="260">
-                    <h4 class="service-heading">3. Mexico</h4>
-					
-                </div>
-                <div class="col-md-6">
-                    <img class="img-rounded img-responsibe" src="img/poster/finland.jpg" alt="" width="360" height="260">
-                     <h4 class="service-heading"> 4. Finlandia</h4> 
-                </div>
-               
-            </div>
-			
+<h4>Categoría Bernoulli:</h4>
+
+- Primer lugar: 2000 Bs. + Material de patrocinadores.
+
+- Segundo lugar: 1000 Bs. + Material de patrocinadores.
+
+- Tercer lugar: Material de patrocinadores.
+
+<h4> Categoría Poisson:</h4>
+
+- Primer lugar: 2000 Bs. + Ingreso directo a la Carrera de Estadística de la Universidad Mayor de San Andres + Material de patrocinadores.
+
+- Segundo lugar: 1000 Bs. + Ingreso directo a la Carrera de Estadística de la Universidad Mayor de San Andres + Material de patrocinadores.
+
+- Tercer lugar: Material de patrocinadores.
+
+<h4>Categoría Gauss:</h4>
+
+- Primer lugar: 2000 Bs. + Material de patrocinadores.
+
+- Segundo lugar: 1000 Bs. + Material de patrocinadores.
+
+- Tercer lugar: Material de patrocinadores.
+
+

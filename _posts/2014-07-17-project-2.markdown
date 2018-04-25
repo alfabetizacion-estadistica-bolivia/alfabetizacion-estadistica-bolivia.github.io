@@ -1,5 +1,5 @@
 ---
-title:  NORMAS PARA LOS PARTICIPANTES
+title:  NORMAS DE LA COMPETENCIA
 subtitle: 
 layout: default
 modal-id: 2
@@ -18,26 +18,63 @@ description:
 La Competencia Boliviana de Posters Estadísticos, consisten en la presentación
 de temas de investigación plasmadas en un póster.
 
-#### ¿Quiénes pueden participar?
+<b>¿Quiénes pueden participar? </b>
 
 - Podrán participar estudiantes de colegio y estudiantes del pregrado de las universidades públicas o privadas, con la orientación y el asesoramiento de profesores, especialistas o investigadores.
 
-- Los equipos de trabajo deben estar conformados de 2 a 5 estudiantes más un docente o guía.
+- Los equipos de trabajo deben estar conformados de 2 a 5 estudiantes más un docente o guía. 
 
 - Los equipos pueden participar en una de las siguientes categorías:
 	
   1. Categoría Bernoulli: Estudiantes de colegio nacidos en 2003 hacia adelante.
   
-  2. Categoría Poisson: Estudiantes de colegio nacidos en elos años 2000, 2001 y 2002.
+  2. Categoría Poisson: Estudiantes de colegio nacidos en elos años 2000, 2001 y 2002. 
 	
   3. Categoría Gauss: Estudiantes del pregrado de universidades sin limite de edad. 
 
 - Al enviar un póster, los estudiantes dan permiso para que su trabajo se muestre en la Conferencia del ISI en Malasia en agosto de 2019, eventos especiales, en publicaciones y material de promoción, y en formato electrónico en Internet.
   
-- La inscripción a la competencia es libre y gratuita.
+- La inscripción a la competencia es libre, gratuita y debe ser realizado por el docente o guia que forma parte del equipo de trabajo.
 
 
-#### Inscripción de los equipos de trabajo
+ <b> ¿Que características debe tener el poster? </b>
 
- La inscripción de los equipos de trabajo y el registro del poster, debe ser realizado por el docente que forma parte del equipo de trabajo, en:
- https://alfabetizacion-estadistica-bolivia.github.io
+
+- No se requiere un tema o tema en particular para que un póster sea elegible. 
+
+- Los Posters deberían reflejar o ilustrar el uso, análisis, interpretación y comunicación de estadísticas o estadísticas de información y hallazgos.
+
+- Los datos utilizados pueden ser recopilados por los estudiantes o publicados previamente por otra persona o institución (si los datos son publicado, la fuente debe ser citada en el póster).
+
+- Los posters pueden estar en cualquier idioma.
+
+- Los posters no deben contener ninguna información sobre los estudiantes o escuelas que los envió.
+
+- No se permiten posters de competiciones internacionales anteriores.
+
+- Los posters deben ser el diseño original y la creación de los estudiantes.
+
+- Los posters deben ser en una sola hoja: el tamaño es A1 (841mm x 594 mm o 33.1 in x 23.4 in) y el tamaño máximo de archivo es de 10 MB en el caso de un póster electrónico.
+
+- El tamaño de la fuente debería ser tal que si se imprimiera en A1, sería legible desde 2 metros de distancia.
+
+- Todas los posters pasan a ser propiedad del ISI y no serán devueltos.
+
+- Los posters recibidos después de la fecha límite establecida no serán considerados para la competencia.
+
+- Los posters no están pensados para ser vistos por mucho tiempo, pero deben:
+
+  * Contener como mínimo lo que se ha estudiado, los resultados principales, la discusión sobre estos resultados y las principales conclusiones.
+  
+  * Contener imágenes y gráficos
+  
+  * Los gráficos deben tener un título y fuente, con un comentario.
+  
+  * El texto empleado debe ser simple, explicando la historia de los datos y sus conclusiones.
+  
+  
+- Los poster en formato digital o electrónico deben ser enviados al correo <b> islp.bolivia@gmail.com </b> 
+
+
+
+ 

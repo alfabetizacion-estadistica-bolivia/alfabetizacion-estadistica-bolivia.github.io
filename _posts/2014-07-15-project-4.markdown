@@ -1,5 +1,5 @@
 ---
-title: PREMIACIÓN
+title: PAUTAS PARA HACER UN POSTER ESTADÍSTICO
 subtitle: 
 layout: default
 modal-id: 4
@@ -11,31 +11,10 @@ description:
 
 ---
 
-Serán premiados los 3 primeros lugares en cada categoría, los premios consisten en:
-
-#### Categoría Bernoulli:
-
-- Primer lugar: 2000 Bs. + Material de patrocinadores.
-
-- Segundo lugar: 1000 Bs. + Material de patrocinadores.
-
-- Tercer lugar: Material de patrocinadores.
-
-#### Categoría Poisson:
-
-- Primer lugar: 2000 Bs. + Ingreso directo a la Carrera de Estadística de la Universidad Mayor de San Andres + Material de patrocinadores.
-
-- Segundo lugar: 1000 Bs. + Ingreso directo a la Carrera de Estadística de la Universidad Mayor de San Andres + Material de patrocinadores.
-
-- Tercer lugar: Material de patrocinadores.
-
-#### Categoría Gauss:
-
-- Primer lugar: 2000 Bs. + Material de patrocinadores.
-
-- Segundo lugar: 1000 Bs. + Material de patrocinadores.
-
-- Tercer lugar: Material de patrocinadores.
+<html>
+<body>
+<embed src="img/guia.pdf" width="950" height="650">
+</body>
+</html>
 
 
-La entrega de premios a los ganadores se realizara el  ------ en ------  
