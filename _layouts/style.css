@@ -1,4 +1,5 @@
 {% include css/bootstrap.min.css %}
 {% include css/agency.css %}
 {% include css/owl.carousel.css %}
+{% include css/infinite-slider.css %}
 {{ content }}
