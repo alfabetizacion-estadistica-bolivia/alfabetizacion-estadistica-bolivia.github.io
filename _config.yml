@@ -43,12 +43,11 @@ social:
   - title: twitter
     url: https://twitter.com/IslpBolivia
   - title: facebook
-    url: https://www.facebook.com/islp.bolivia
+    url: https://www.facebook.com/islpBolivia/
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: La Paz - Bolivia
 
 # Build settings
 markdown: kramdown
