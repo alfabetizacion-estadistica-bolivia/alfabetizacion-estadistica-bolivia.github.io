@@ -14,26 +14,26 @@ Serán premiados los 3 primeros lugares en cada categoría, los premios consiste
 
 <h4>Categoría Bernoulli:</h4>
 
-- Primer lugar: 2000 Bs. + Material de patrocinadores.
+- Primer lugar: Pack educativo I + Material de patrocinadores + Certificado de participación.
 
-- Segundo lugar: 1000 Bs. + Material de patrocinadores.
+- Segundo lugar: Pack educativo II + Material de patrocinadores + Certificado de participación.
 
-- Tercer lugar: Material de patrocinadores.
+- Tercer lugar: Pack educativo III + Certificado de participación.
 
 <h4> Categoría Poisson:</h4>
 
-- Primer lugar: 2000 Bs. + Ingreso directo a la Carrera de Estadística de la Universidad Mayor de San Andres + Material de patrocinadores.
+- Primer lugar: Pack educativo I + Material de patrocinadores + Certificado de participación.
 
-- Segundo lugar: 1000 Bs. + Ingreso directo a la Carrera de Estadística de la Universidad Mayor de San Andres + Material de patrocinadores.
+- Segundo lugar: Pack educativo II + Material de patrocinadores + Certificado de participación.
 
-- Tercer lugar: Material de patrocinadores.
+- Tercer lugar: Pack educativo III + Certificado de participación.
 
 <h4>Categoría Gauss:</h4>
 
-- Primer lugar: 2000 Bs. + Material de patrocinadores.
+- Primer lugar: Pack educativo I + Material de patrocinadores + Certificado de participación.
 
-- Segundo lugar: 1000 Bs. + Material de patrocinadores.
+- Segundo lugar: Pack educativo II + Material de patrocinadores + Certificado de participación.
 
-- Tercer lugar: Material de patrocinadores.
+- Tercer lugar: Pack educativo III + Certificado de participación.
 
 
