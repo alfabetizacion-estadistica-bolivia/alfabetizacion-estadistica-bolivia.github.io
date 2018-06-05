@@ -14,7 +14,6 @@ category: Web Development
 description:  
 
 ---
-***
 
 La Competencia Boliviana de Posters Estadísticos, consisten en la presentación
 de temas de investigación plasmadas en un póster.
