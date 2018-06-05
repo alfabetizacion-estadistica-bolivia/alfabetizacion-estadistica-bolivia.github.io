@@ -11,12 +11,17 @@ description:
 
 <html>
 <body>
-<embed src="img/cartel2.pdf" width="950" height="650">
+<embed src="cartel_2.pdf" width="950" height="650">
 </body>
 </html>
 
 <html>
 <body>
 <embed src="img/cartel.pdf" width="950" height="650">
+</body>
+</html>
+<html>
+<body>
+<embed src="img/cartel_2.pdf" width="950" height="650">
 </body>
 </html>
