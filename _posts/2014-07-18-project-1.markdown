@@ -3,26 +3,13 @@ title: CONVOCATORIA
 subtitle: 
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2018-06-05
 thumbnail: dreams-thumbnail.png
-description:
-
+description: Acá encuentras el afiche oficial de la competencia
 ---
 
 <html>
 <body>
 <embed src="img/cartel2.pdf" width="950" height="650">
-</body>
-</html>
-
-<html>
-<body>
-<embed src="img/cartel.pdf" width="950" height="650">
-</body>
-</html>
-
-<html>
-<body>
-<embed src="poster2.jpg" width="950" height="650">
 </body>
 </html>
