@@ -10,7 +10,7 @@ description: Acá encuentras el afiche oficial de la competencia
 
 <html>
 <body>
-<font size=7> Acá encuentras el afiche oficial de la competencia </font>
+# Acá encuentras el afiche oficial de la competencia 
 <embed src="img/cartel2.pdf" width="950" height="650">
 </body>
 </html>
