@@ -1,4 +1,4 @@
----
+﻿---
 title: CONVOCATORIA
 subtitle: 
 layout: default
@@ -10,7 +10,7 @@ description: Acá encuentras el afiche oficial de la competencia
 
 <html>
 <body>
-# Acá encuentras el afiche oficial de la competencia 
+ Acá encuentras el afiche oficial de la competencia 
 <embed src="img/cartel2.pdf" width="950" height="650">
 </body>
 </html>
