@@ -28,7 +28,7 @@ A continuación se presenta una lista con algunos nombres de instituciones y los
 
 | FUENTE DE INFORMACIÓN                                                            | ENLACE                                                               |
 |----------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| Instituto Nacional de Estadística "INE"                                          | [EXPLORA...][https://www.ine.gob.bo/]                                |
-| Banco Mundial                                                                    | [EXPLORA...][https://datos.bancomundial.org/pais/bolivia?view=chart] |
-| Organización de las Naciones Unidas, para la Alimentación y la Agricultura "FAO" | [EXPLORA...][http://www.fao.org/faostat/es/#country/19]              |
-| UNICEF                                                                           | [EXPLORA...][https://data.unicef.org/country/bol/]                   |
+| Instituto Nacional de Estadística "INE"                                          | [EXPLORA...](https://www.ine.gob.bo/)                                |
+| Banco Mundial                                                                    | [EXPLORA...](https://datos.bancomundial.org/pais/bolivia?view=chart) |
+| Organización de las Naciones Unidas, para la Alimentación y la Agricultura "FAO" | [EXPLORA...](http://www.fao.org/faostat/es/#country/19)              |
+| UNICEF                                                                           | [EXPLORA...](https://data.unicef.org/country/bol/)            	      |
