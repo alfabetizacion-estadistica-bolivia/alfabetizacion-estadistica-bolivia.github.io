@@ -14,6 +14,7 @@ Los datos utilizados en la construcción del poster pueden ser:
 
 - <b> Publicados previamente por otra persona o institución:</b> Existen diversas fuentes de información con temáticas variadas, a las cuales se pueden acceder siguiendo los protocolos de acceso a información  establecidas por cada institución.
 En muchos casos las bases de datos pueden ser descargadas sin restricciones  desde el sitio web de la institución, en otros casos es posible acceder a ellas mediante una solicitud por correo electrónico.
+
 A continuación se presenta una lista con algunos nombres de instituciones y los sitios web de las mismas , en las que se pueden obtener bases de datos:
  
 | FUENTES DE INFORMACIÓN                                                            | ENLACE                                                               |
