@@ -36,6 +36,11 @@ Serán premiados los 3 primeros lugares en cada categoría, los premios consiste
 
 - Tercer lugar: Pack educativo III + Certificado de participación.
 
+ <div class="col-md-12">
+                    <img class="img-rounded img-responsibe" src="img/Premios.jpg" alt="" width="989" height="1280">
+                    <h4 class="service-heading">1. Japon</h4>
+                </div>
+
 <embed src="img/Premios.pdf" width="950" height="650">
 
 
