@@ -41,8 +41,8 @@ Serán premiados los 3 primeros lugares en cada categoría, los premios consiste
                 </div>
 
 
-<h4> Los primeros lugares en cada categoria pasaran a representar a Bolivia en la competencia Internacional: </h4>
+<h4> Los primeros lugares en cada categoría pasarán a representar a Bolivia en la competencia Internacional: </h4>
 
 En la competencia internacional, los premios para las categorías Bernoulli y Poisson: 450 € 1er lugar, 350 € 2do lugar, 200 € 3er lugar. En la categoría Gauss, el premio para el ganador internacional es de € 2000. Además, el JMP de SAS recompensará con una mención honorífica al equipo de la universidad, que mejor aplicó el software JMP en su trabajo.
 
-Los ganadores de la competencia internacional se anunciarán y los posters se mostrarán en el 62º Congreso Mundial de la Estadística del ISI en Kuala Lumpur, Malasia, durante agosto de 2019.
+Los ganadores de la competencia internacional se anunciarán y los posters se mostrarán en el 62º Congreso Mundial de la Estadística del ISI en Kuala Lumpur, Malasia, el mes de agosto del año 2019.
