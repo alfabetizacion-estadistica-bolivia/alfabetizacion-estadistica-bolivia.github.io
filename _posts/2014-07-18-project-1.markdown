@@ -5,12 +5,12 @@ layout: default
 modal-id: 1
 date: 2018-06-05
 thumbnail: dreams-thumbnail.png
-description: Acá encuentras el afiche oficial de la competencia
+description: Afiche oficial de la competencia
 ---
 
 <html>
 <body>
- Acá encuentras el afiche oficial de la competencia 
+ Afiche oficial de la competencia 
 <embed src="img/cartel2.pdf" width="950" height="650">
 </body>
 </html>

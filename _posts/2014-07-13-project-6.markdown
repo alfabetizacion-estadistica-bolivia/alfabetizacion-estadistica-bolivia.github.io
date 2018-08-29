@@ -1,5 +1,5 @@
 ---
-title: POSTERS DE LA COMPETENCIA INTERNACIONAL PASADA
+title: PÓSTERS DE LA COMPETENCIA INTERNACIONAL PASADA
 subtitle: 
 layout: default
 modal-id: 6
@@ -11,7 +11,7 @@ description:
 ---
 
 
-Para ver mas posters puedes visitar la pagina: 
+Para ver más posters se puede visitar la página: 
 <a href="http://iase-web.org/islp/Poster_Competition_2016-2017.php?p=Posters"> http://iase-web.org/islp/Poster_Competition_2016-2017.php?p=Posters </a>
 
 <br>
