@@ -34,10 +34,10 @@ de temas de investigación, plasmados en un póster.
 
 - Al enviar un póster, los participantes dan permiso para que su trabajo se muestre en la Conferencia del ISI en Malasia en agosto de 2019, eventos especiales, en publicaciones, materiales de promoción y en formato electrónico por Internet.
   
-- La inscripción a la competencia es libre, gratuita, debe ser realizada preferentemente por el guía o tutor que forma parte del equipo de trabajo.
+- La inscripción a la competencia es libre, gratuita, esta debe ser realizada preferentemente por el guía o tutor que forma parte del equipo de trabajo.
 
 
- <b> ¿Qué características debe tener el poster? </b>
+ <b> ¿Qué características debe tener el póster? </b>
 
 
 - No se requiere que el póster tenga un tema en particular para ser elegible. 
@@ -56,11 +56,11 @@ de temas de investigación, plasmados en un póster.
 
 - Los pósters deben ser diseñados en una sola hoja: el tamaño físico es A1 (841mm x 594 mm o 33.1 in x 23.4 in) y en caso de ser un póster digital o electrónico el tamaño máximo del archivo deberá ser de 10 MB.
 
-- El tamaño de la fuente deberá ser, tal que si se imprimiera en A1 y ser legible desde una distancia de 2 metros.
+- El tamaño de fuente o letra deberá ser, tal que si se imprimiera en A1 y ser legible desde una distancia de 2 metros.
 
 - Todos los pósters, una vez enviados pasan a ser propiedad del ISI y no serán devueltos.
 
-- Los pósters recibidos después de la fecha límite establecida no serán considerados para la competencia.
+- Los pósters recibidos después de la fecha límite establecida, no serán considerados para la competencia.
 
 - Los pósters no están pensados para ser vistos por mucho tiempo, pero deben:
 
@@ -73,7 +73,7 @@ de temas de investigación, plasmados en un póster.
   * El texto empleado debe ser simple, explicando la historia de los datos y sus conclusiones.
   
   
-- Los póster en formato digital o electrónico deben ser enviados al correo <b> islp.bolivia@gmail.com </b> 
+- Los póster en formato digital o electrónico deben ser enviados al correo <b> islp.bolivia@gmail.com </b>, previa inscripción en la página de la competencia <b> https://islp-bolivia.github.io </b>
 
 
 
