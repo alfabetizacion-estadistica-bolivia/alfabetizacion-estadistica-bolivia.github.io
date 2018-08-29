@@ -39,8 +39,6 @@ Serán premiados los 3 primeros lugares en cada categoría, los premios consiste
  <div class="col-md-12">
                     <img class="img-rounded img-responsibe" src="img/Premio.jpg" alt="" width="989" height="1135">                
                 </div>
-
-
 <h4> Los primeros lugares en cada categoria pasaran a representar a Bolivia en la competencia Internacional: </h4>
 
 En la competencia internacional, los premios para las categorías Bernoulli y Poisson: 450 € 1er lugar, 350 € 2do lugar, 200 € 3er lugar. En la categoría Gauss, el premio para el ganador internacional es de € 2000. Además, el JMP de SAS recompensará con una mención honorífica al equipo de la universidad, que mejor aplicó el software JMP en su trabajo.
