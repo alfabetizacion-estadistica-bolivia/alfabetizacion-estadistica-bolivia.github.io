@@ -1,52 +1,46 @@
 ---
-title: PREMIACIÓN
+title: PÓSTERS DE LA COMPETENCIA INTERNACIONAL PASADA
 subtitle: 
 layout: default
 modal-id: 5
-date: 2014-07-14
-thumbnail: startup-framework-thumbnail.png
+date: 2014-07-15
+thumbnail: posters.png
 
 description: 
+
 ---
 
-			
-Serán premiados los 3 primeros lugares en cada categoría, los premios consisten en:
 
-<h4>Categoría Bernoulli:</h4>
+Para ver más posters se puede visitar la página: 
+<a href="http://iase-web.org/islp/Poster_Competition_2016-2017.php?p=Posters"> http://iase-web.org/islp/Poster_Competition_2016-2017.php?p=Posters </a>
 
-- Primer lugar: Pack educativo I + Material de patrocinadores + Certificado de participación.
+<br>
 
-- Segundo lugar: Pack educativo II + Material de patrocinadores + Certificado de participación.
-
-- Tercer lugar: Pack educativo III + Certificado de participación.
-
-<h4> Categoría Poisson:</h4>
-
-- Primer lugar: Pack educativo I + Material de patrocinadores + Certificado de participación.
-
-- Segundo lugar: Pack educativo II + Material de patrocinadores + Certificado de participación.
-
-- Tercer lugar: Pack educativo III + Certificado de participación.
-
-<h4>Categoría Gauss:</h4>
-
-- Primer lugar: Pack educativo I + Material de patrocinadores + Certificado de participación.
-
-- Segundo lugar: Pack educativo II + Material de patrocinadores + Certificado de participación.
-
-- Tercer lugar: Pack educativo III + Certificado de participación.
-
- <div class="col-md-12">
-                    <img class="img-rounded img-responsibe" src="img/Premio.jpg" alt="" width="989" height="1135">                
+ <div class="row text-left">
+                <div class="col-md-6">
+                    <img class="img-rounded img-responsibe" src="img/poster/japon.jpg" alt="" width="300" height="350">
+                    <h4 class="service-heading">1. Japon</h4>
                 </div>
-<<<<<<< HEAD
-<h4> Los primeros lugares en cada categoria pasaran a representar a Bolivia en la competencia Internacional: </h4>
-=======
+                <div class="col-md-6">
+                    <img class="img-rounded img-responsibe" src="img/poster/rusia.jpg" alt="" width="380" height="300">
+                    <h4 class="service-heading">2. Rusia</h4>
+                </div>
+               
+            </div>	
+			
+<br>
+
+ <div class="row text-center">
+                <div class="col-md-6">
+                    <img class="img-rounded img-responsibe" src="img/poster/mexico.jpg" alt="" width="360" height="260">
+                    <h4 class="service-heading">3. Mexico</h4>
+					
+                </div>
+                <div class="col-md-6">
+                    <img class="img-rounded img-responsibe" src="img/poster/finland.jpg" alt="" width="360" height="260">
+                     <h4 class="service-heading"> 4. Finlandia</h4> 
+                </div>
+               
+            </div>
 
 
-<h4> Los primeros lugares en cada categoría pasarán a representar a Bolivia en la competencia Internacional: </h4>
->>>>>>> 474eea6be6beb8b03d188998b5af6d3677e86696
-
-En la competencia internacional, los premios para las categorías Bernoulli y Poisson: 450 € 1er lugar, 350 € 2do lugar, 200 € 3er lugar. En la categoría Gauss, el premio para el ganador internacional es de € 2000. Además, el JMP de SAS recompensará con una mención honorífica al equipo de la universidad, que mejor aplicó el software JMP en su trabajo.
-
-Los ganadores de la competencia internacional se anunciarán y los posters se mostrarán en el 62º Congreso Mundial de la Estadística del ISI en Kuala Lumpur, Malasia, el mes de agosto del año 2019.
