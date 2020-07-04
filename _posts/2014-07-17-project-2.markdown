@@ -10,6 +10,7 @@ thumbnail: normas.png
 description:  
 
 ---
+<HTML>
 <body background="#FAD7A0">
 
 La Competencia Boliviana de Posters Estadísticos, trata sobre la presentación
@@ -73,6 +74,6 @@ y orientación de profesores; docentes; especialistas o investigadores.
   
 - Los póster en formato digital o electrónico deben ser enviados al correo <b> islp.bolivia@gmail.com </b>, previa inscripción en la página de la competencia <b> https://islp-bolivia.github.io </b>
 
-</BODY>
-
+</body>
+</HTML>
  
