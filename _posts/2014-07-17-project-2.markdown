@@ -10,6 +10,8 @@ thumbnail: normas.png
 description:  
 
 ---
+<span style="color:blue">some *This is Blue italic.* text</span>
+
 <HTML>
 <body background="#FAD7A0">
 
