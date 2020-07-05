@@ -78,3 +78,12 @@ competencia
   
   
 - Los póster en formato digital o electrónico deben ser enviados al correo <b><span style="color:orange"> islp.bolivia@gmail.com </span></b>, previa inscripción en la página de la competencia <b> https://islp-bolivia.github.io </b>
+
+
+A continuación se mostraran los criterios de evaluación  que serán considerados por  los responsables de la evaluación del ISLP  
+
+<html>
+<body>
+<embed src="img/criterios_2020_2021.pdf" width="950" height="650">
+</body>
+</html>
