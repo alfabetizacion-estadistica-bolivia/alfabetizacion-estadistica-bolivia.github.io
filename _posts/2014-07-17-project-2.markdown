@@ -10,20 +10,13 @@ thumbnail: normas.png
 description:  
 
 ---
-<span style="color:blue">some *This is Blue italic.* text</span>
 
-<div class = "blue">
-```{r bluecars}
-summary(cars)
-```
-</div>
 
-<HTML>
-<body background="#FAD7A0">
 
 La Competencia Boliviana de Posters Estadísticos, trata sobre la presentación
 de temas de investigación, plasmados en un póster.
 
+<span style="color:red">*<b>¿Quiénes pueden participar? </b>*</span>
 <b>¿Quiénes pueden participar? </b>
 
 - Podrán participar todos los adolescentes y jóvenes de Bolivia, bajo el asesoramiento 
@@ -81,7 +74,3 @@ y orientación de profesores; docentes; especialistas o investigadores.
   
   
 - Los póster en formato digital o electrónico deben ser enviados al correo <b> islp.bolivia@gmail.com </b>, previa inscripción en la página de la competencia <b> https://islp-bolivia.github.io </b>
-
-</body>
-</HTML>
- 
