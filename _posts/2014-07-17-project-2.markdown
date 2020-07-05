@@ -16,51 +16,55 @@ description:
 La Competencia Boliviana de Posters Estadísticos, trata sobre la presentación
 de temas de investigación, plasmados en un póster.
 
-<span style="color:red">*<b>¿Quiénes pueden participar? </b>*</span>
-<b>¿Quiénes pueden participar? </b>
+<span style="color:red">*<b>¿Quiénes pueden participar? </b>* </span>
+
 
 - Podrán participar todos los adolescentes y jóvenes de Bolivia, bajo el asesoramiento 
 y orientación de profesores; docentes; especialistas o investigadores.
 
 - Los equipos deben estar formados por 2,3,4 o 5 estudiantes más un guía o tutor. 
 
-- Los equipos pueden participar en una de las categorías:
+- Los equipos pueden participar en una de las siguientes categorías:
 	
-  1. Categoría Bernoulli: Adolescentes nacidos en los años 2003, 2004 y 2005.
+  1. <span style="color:blue">*Categoría Bernoulli:</span> Adolescentes nacidos en los años 2007, 2008 y 2009.
   
-  2. Categoría Poisson: Adolescentes y jóvenes nacidos en los años 2000, 2001 y 2002.. 
+  2. <span style="color:blue">*Categoría Poisson: </span> Adolescentes y jóvenes nacidos en los años 2004, 2005 y 2006.
 	
-  3. Categoría Gauss: Estudiantes del pregrado de universidades públicas o privadas sin límite de edad. 
+  3. <span style="color:blue">*Categoría Gauss: </span> Estudiantes del pregrado de universidades públicas o privadas sin límite de edad. 
 
-- Al enviar un póster, los participantes dan permiso para que su trabajo se muestre en la Conferencia del ISI en Malasia en agosto de 2019, eventos especiales, en publicaciones, materiales de promoción y en formato electrónico por Internet.
-  
-- La inscripción a la competencia es libre, gratuita, esta debe ser realizada preferentemente por el guía o tutor que forma parte del equipo de trabajo.
-
-
- <b> ¿Qué características debe tener el póster? </b>
+- Al enviar un póster, los participantes dan permiso para que su trabajo se muestre en la Conferencia del  
+ISI eventos especiales, en publicaciones y material de promoción, y en formato electrónico en Internet 
+- La inscripción a la competencia es libre, gratuita, esta debe ser realizada preferentemente por el guía o tutor que forma parte del equipo participante.
 
 
-- No se requiere que el póster tenga un tema en particular para ser elegible. 
+ <b> <span style="color:red">¿Qué características debe tener el póster? </span></b>
+ 
+ 
+- Al planificar los carteles, es importante tener en cuenta  las reglas de evaluación del Concurso de póster de ISLP. 
 
-- Los pósters deberán reflejar o ilustrar el uso, análisis, interpretación y comunicación de estadísticas de información y hallazgos.
+- El tema de la competencia es el medio ambiente, la biología o desarrollo  sostenible.
 
-- Los datos utilizados pueden ser recopilados por los estudiantes o publicados previamente por otra persona o institución (si los datos son publicado, la fuente debe ser citada en el póster).
+- El trabajo debe basarse en el uso, análisis y interpretación de estadísticas. 
 
-- Los pósters pueden estar escritos en cualquier idioma.
+- Los datos utilizados pueden ser recopilados por los participantes o publicados previamente por una
+fuente confiable (si los datos son publicado, la fuente debe ser citada en el póster).
 
-- Los pósters no deben contener ninguna información sobre los participantes que los envían.
+- Los carteles se pueden hacer en el propio idioma o en inglés
 
-- No se permiten posters de competiciones internacionales anteriores.
+- Los afiches no deben contener información sobre estudiantes o escuelas de quién los ha enviado (la 
+información se proporciona en un archivo adjunto separado para garantizar la igualdad de trato).
 
-- Los pósters deben ser, el diseño y la creación original de los estudiantes.
+- No se permiten carteles de concursos internacionales anteriores.
 
-- Los pósters deben ser diseñados en una sola hoja: el tamaño físico es A1 (841mm x 594 mm o 33.1 in x 23.4 in) y en caso de ser un póster digital o electrónico el tamaño máximo del archivo deberá ser de 10 MB.
+- Los carteles deben ser el diseño original y creados por los estudiantes.
 
-- El tamaño de fuente o letra deberá ser, tal que si se imprimiera en A1 y ser legible desde una distancia de 2 metros.
+- Los carteles deben ser bidimensionales (una sola hoja) y unilaterales: el tamaño máximo es A1(841mm 
+x 594 mm o 33.1 in x 23.4 in) y el tamaño máximo de archivo es de 10 MB. En el caso de un póster
+electrónico, el tamaño de la fuente debería ser tal que si se imprimiera en A1, sería legible desde 2
+metros (7pies) de distancia.
 
-- Todos los pósters, una vez enviados pasan a ser propiedad del ISI y no serán devueltos.
-
-- Los pósters recibidos después de la fecha límite establecida, no serán considerados para la competencia.
+- Los carteles recibidos después de la fecha límite establecida no serán considerados para la 
+competencia
 
 - Los pósters no están pensados para ser vistos por mucho tiempo, pero deben:
 
@@ -73,4 +77,4 @@ y orientación de profesores; docentes; especialistas o investigadores.
   * El texto empleado debe ser simple, explicando la historia de los datos y sus conclusiones.
   
   
-- Los póster en formato digital o electrónico deben ser enviados al correo <b> islp.bolivia@gmail.com </b>, previa inscripción en la página de la competencia <b> https://islp-bolivia.github.io </b>
+- Los póster en formato digital o electrónico deben ser enviados al correo <b><span style="color:orange"> islp.bolivia@gmail.com </span></b>, previa inscripción en la página de la competencia <b> https://islp-bolivia.github.io </b>
