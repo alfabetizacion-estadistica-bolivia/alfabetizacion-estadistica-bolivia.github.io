@@ -10,43 +10,37 @@ description:
 ---
 
 			
-Serán premiados los 3 primeros lugares en cada categoría, los premios consisten en:
+Se premiaran a los 3 primeros lugares en cada categoría, los premios consisten en:
 
-<h4>Categoría Bernoulli:</h4>
+<h4> <span style="color:darkcyan">Categoría Bernoulli:</span> </h4>
 
-- Primer lugar: Pack educativo I + Material de patrocinadores + Certificado de participación.
+- Primer lugar: Pack educativo I.
 
-- Segundo lugar: Pack educativo II + Material de patrocinadores + Certificado de participación.
+- Segundo lugar: Pack educativo II.
 
-- Tercer lugar: Pack educativo III + Certificado de participación.
+- Tercer lugar: Pack educativo III.
 
-<h4> Categoría Poisson:</h4>
+<h4> <span style="color:darkcyan"> Categoría Poisson:</span> </h4>
 
-- Primer lugar: Pack educativo I + Material de patrocinadores + Certificado de participación.
+- Primer lugar: Pack educativo I.
 
-- Segundo lugar: Pack educativo II + Material de patrocinadores + Certificado de participación.
+- Segundo lugar: Pack educativo II.
 
-- Tercer lugar: Pack educativo III + Certificado de participación.
+- Tercer lugar: Pack educativo III.
 
-<h4>Categoría Gauss:</h4>
+<h4> <span style="color:darkcyan"> Categoría Gauss: </span> </h4>
 
-- Primer lugar: Pack educativo I + Material de patrocinadores + Certificado de participación.
+- Primer lugar: Pack educativo I.
 
-- Segundo lugar: Pack educativo II + Material de patrocinadores + Certificado de participación.
+- Segundo lugar: Pack educativo II.
 
-- Tercer lugar: Pack educativo III + Certificado de participación.
-
- <div class="col-md-12">
-                    <img class="img-rounded img-responsibe" src="img/Premio.jpg" alt="" width="989" height="1135">                
-                </div>
-<<<<<<< HEAD
-<h4> Los primeros lugares en cada categoria pasaran a representar a Bolivia en la competencia Internacional: </h4>
-=======
+- Tercer lugar: Pack educativo III.
 
 
-<h4> Los primeros lugares en cada categoría pasarán a representar a Bolivia en la competencia Internacional: </h4>
->>>>>>> 474eea6be6beb8b03d188998b5af6d3677e86696
+				
+<h4> Los primeros lugares en cada categoría pasaran a representar a Bolivia en la competencia Internacional: </h4>
 
-En la competencia internacional, los premios para las categorías Bernoulli y Poisson: 450 € 1er lugar, 350 € 2do lugar, 200 € 3er lugar. En la categoría Gauss, el premio para el ganador internacional es de € 2000. Además, el JMP de SAS recompensará con una mención honorífica al equipo de la universidad, que mejor aplicó el software JMP en su trabajo.
 
-Los ganadores de la competencia internacional se anunciarán y los posters se mostrarán en el 62º Congreso Mundial de la Estadística del ISI en Kuala Lumpur, Malasia, el mes de agosto del año 2019.
+En la Competencia Internacional de Poster Estadístico, los premios para las categorías Bernoulli y Poisson: 450 € 1er lugar, 350 € 2do lugar, 200 € 3er lugar. En la categoría Gauss, el premio para el ganador internacional es de € 2000. Además, el JMP de SAS recompensará con una mención honorífica al equipo de la universidad, que mejor aplicó el software JMP en su trabajo.
+
+Los ganadores de la competencia internacional serán anunciarán y sus posters se mostrarán en el 63º Congreso Mundial de la Estadística del ISI de los Paises Bajos , en el mes de julio del año 2021.

@@ -10,7 +10,7 @@ description:
 ---
 Los datos utilizados en la construcción del póster pueden ser:
 
-- <b><span style="color:blue"> Recopilados por los mismos participantes:</span> </b> Los participantes pueden recopilar los datos relacionados con temas del medio ambiente, la biología o desarrollo  sostenible.  
+- <b><span style="color:blue"> Recopilados por los mismos participantes:</span> </b> Los participantes pueden recopilar datos relacionados con temas de: Medio Ambiente, Biología o Desarrollo  Sostenible.  
 
 - <b> <span style="color:blue"> Publicados previamente por otra persona o institución:</span> </b> Existen diversas fuentes de información, a las cuales se pueden acceder siguiendo los protocolos de acceso a la información,  establecidas por cada institución.
 En muchos casos las bases de datos pueden ser descargadas sin restricciones  desde el sitio web de la institución, en otros casos es posible acceder a ellas mediante una solicitud por correo electrónico.
