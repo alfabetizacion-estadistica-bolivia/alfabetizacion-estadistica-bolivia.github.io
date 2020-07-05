@@ -10,16 +10,16 @@ description:
 ---
 Los datos utilizados en la construcción del póster pueden ser:
 
-- <b> Recopilados por los mismos participantes:</b> Los participantes pueden recopilar datos de diversos temas relacionados con su comunidad.  
+- <b><span style="color:blue"> Recopilados por los mismos participantes:</span> </b> Los participantes pueden recopilar los datos relacionados con temas del medio ambiente, la biología o desarrollo  sostenible.  
 
-- <b> Publicados previamente por otra persona o institución:</b> Existen diversas fuentes de información con temáticas variadas, a las cuales se pueden acceder siguiendo los protocolos de acceso a información  establecidas por cada institución.
+- <b> <span style="color:blue"> Publicados previamente por otra persona o institución:</span> </b> Existen diversas fuentes de información, a las cuales se pueden acceder siguiendo los protocolos de acceso a la información,  establecidas por cada institución.
 En muchos casos las bases de datos pueden ser descargadas sin restricciones  desde el sitio web de la institución, en otros casos es posible acceder a ellas mediante una solicitud por correo electrónico.
 
 A continuación se presenta una lista con algunos nombres de instituciones y los sitios web de las mismas , en las que se pueden obtener bases de datos:
  
-| FUENTES DE INFORMACIÓN                                                            | ENLACE                                                               |
-|----------------------------------------------------------------------------------|----------------------------------------------------------------------|
-| Instituto Nacional de Estadística "INE"                                          | [ EXPLORA...](https://www.ine.gob.bo/)                                |
-| Banco Mundial                                                                    | [ EXPLORA...](https://datos.bancomundial.org/pais/bolivia?view=chart) |
-| Organización de las Naciones Unidas, para la Alimentación y la Agricultura "FAO" | [ EXPLORA...](http://www.fao.org/faostat/es/#country/19)              |
-| UNICEF                                                                           | [ EXPLORA...](https://data.unicef.org/country/bol/)            	      |
+| FUENTES DE INFORMACIÓN                                                           |  |ENLACE                                                                |
+|----------------------------------------------------------------------------------|--|----------------------------------------------------------------------|
+| Instituto Nacional de Estadística "INE"                                          |  |[ EXPLORA...](https://www.ine.gob.bo/)                                |
+| Banco Mundial                                                                    |  |[ EXPLORA...](https://datos.bancomundial.org/pais/bolivia?view=chart) |
+| Organización de las Naciones Unidas, para la Alimentación y la Agricultura "FAO" |  |[ EXPLORA...](http://www.fao.org/faostat/es/#country/19)              |
+| UNICEF                                                                           |  |[ EXPLORA...](https://data.unicef.org/country/bol/)            	     |
