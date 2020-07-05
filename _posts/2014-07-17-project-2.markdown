@@ -12,6 +12,12 @@ description:
 ---
 <span style="color:blue">some *This is Blue italic.* text</span>
 
+<div class = "blue">
+```{r bluecars}
+summary(cars)
+```
+</div>
+
 <HTML>
 <body background="#FAD7A0">
 
