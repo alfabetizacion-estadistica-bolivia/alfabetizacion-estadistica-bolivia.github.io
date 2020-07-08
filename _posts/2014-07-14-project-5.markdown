@@ -35,7 +35,7 @@ A continuación presentaremos los posters ganadores de la competencia nacional p
 					
                 </div>
                 <div class="col-md-6">
-                    <img class="img-rounded img-responsibe" src="img/poster/gauss2.jpg" alt="" width="360" height="260">
+                    <img class="img-rounded img-responsibe" src="img/poster/gauss2.png" alt="" width="360" height="260">
                      <h4 class="service-heading"> 4. Segundo lugar en la categoría Gauss</h4> 
                 </div>
                
