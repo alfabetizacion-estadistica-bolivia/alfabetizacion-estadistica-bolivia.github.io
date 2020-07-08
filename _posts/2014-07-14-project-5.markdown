@@ -1,5 +1,5 @@
 ---
-title: PÓSTERS DE LA COMPETENCIA INTERNACIONAL PASADA
+title: PÓSTERS DE LA COMPETENCIA PASADA
 subtitle: 
 layout: default
 modal-id: 5
@@ -10,20 +10,18 @@ description:
 
 ---
 
-
-Para ver más posters se puede visitar la página: 
-<a href="http://iase-web.org/islp/Poster_Competition_2016-2017.php?p=Posters"> http://iase-web.org/islp/Poster_Competition_2016-2017.php?p=Posters </a>
+A continuación presentaremos los posters ganadores de la competencia nacional pasada.
 
 <br>
 
  <div class="row text-left">
                 <div class="col-md-6">
-                    <img class="img-rounded img-responsibe" src="img/poster/japon.jpg" alt="" width="300" height="350">
-                    <h4 class="service-heading">1. Japon</h4>
+                    <img class="img-rounded img-responsibe" src="img/poster/bernoulli1.png" alt="" width="300" height="350">
+                    <h4 class="service-heading">1. Primer lugar en la categoría Bernoulli</h4>
                 </div>
                 <div class="col-md-6">
-                    <img class="img-rounded img-responsibe" src="img/poster/rusia.jpg" alt="" width="380" height="300">
-                    <h4 class="service-heading">2. Rusia</h4>
+                    <img class="img-rounded img-responsibe" src="img/poster/poisson1.jpg" alt="" width="380" height="300">
+                    <h4 class="service-heading">2. Primer lugar en la categoria Poisson</h4>
                 </div>
                
             </div>	
@@ -32,15 +30,17 @@ Para ver más posters se puede visitar la página:
 
  <div class="row text-center">
                 <div class="col-md-6">
-                    <img class="img-rounded img-responsibe" src="img/poster/mexico.jpg" alt="" width="360" height="260">
-                    <h4 class="service-heading">3. Mexico</h4>
+                    <img class="img-rounded img-responsibe" src="img/poster/gauss1.png" alt="" width="360" height="260">
+                    <h4 class="service-heading">3. Primer lugar en la categoría Gauss</h4>
 					
                 </div>
                 <div class="col-md-6">
-                    <img class="img-rounded img-responsibe" src="img/poster/finland.jpg" alt="" width="360" height="260">
-                     <h4 class="service-heading"> 4. Finlandia</h4> 
+                    <img class="img-rounded img-responsibe" src="img/poster/gauss2.jpg" alt="" width="360" height="260">
+                     <h4 class="service-heading"> 4. Segundo lugar en la categoría Gauss</h4> 
                 </div>
                
             </div>
 
 
+Para ver los posters de la competencia internacional pasada puede visitar la página: 
+<a href="http://iase-web.org/islp/Poster_Competition_2016-2017.php?p=Posters"> http://iase-web.org/islp/Poster_Competition_2016-2017.php?p=Posters </a>
