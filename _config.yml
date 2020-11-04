@@ -35,7 +35,6 @@ people:
       url: https://www.facebook.com/FundacionARU
     - title: dribbble
       url: https://www.aru.org.bo/
-
 - name: Instituto Nacional de Estadística
   pic: ine
   position: Estado Plurinacional de Bolivia
@@ -46,7 +45,6 @@ people:
       url: https://www.facebook.com/ineboliviaoficial/
     - title: dribbble
       url: https://www.ine.gob.bo/
-	  
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
