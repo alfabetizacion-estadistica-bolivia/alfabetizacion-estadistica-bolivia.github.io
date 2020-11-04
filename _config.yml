@@ -8,6 +8,16 @@ description: "Competencia Boliviana de Posters Estadísticos. Participa!!! Inscr
 
 # Team names, titles and social links
 people:
+#- name: Instituto Nacional de Estadística
+# pic: ine
+#  position: Estado Plurinacional de Bolivia
+ # social:
+  #  - title: twitter
+#      url: https://twitter.com/ineoficialbo?lang=es
+ #   - title: facebook
+ #     url: https://www.facebook.com/ineboliviaoficial/
+ #   - title: dribbble
+  #    url: https://www.ine.gob.bo/
 #- name: Carrera de Economía - La Paz 
 #  pic: ucb
 #  position: Universidad Católica Boliviana
