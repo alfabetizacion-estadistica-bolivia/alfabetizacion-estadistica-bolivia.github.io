@@ -17,6 +17,13 @@ En muchos casos las bases de datos pueden ser descargadas sin restricciones  des
 
 A continuación se presenta una lista con algunos nombres de instituciones y los sitios web de las mismas , en las que se pueden obtener bases de datos:
  
-| FUENTES DE INFORMACIÓN                                                           |  |ENLACE                                                                |
-|----------------------------------------------------------------------------------|--|----------------------------------------------------------------------|
-| Organización de las Naciones Unidas, para la Alimentación y la Agricultura "FAO" |  |[ EXPLORA...](http://www.fao.org/faostat/es/#home)                    |
+| FUENTES DE INFORMACIÓN                                                           | ENLACE                                                                |
+| -------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| Organización de las Naciones Unidas, para la Alimentación y la Agricultura "FAO" | [ EXPLORA...](http://www.fao.org/faostat/es/#home)                    |
+| -------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| Banco Mundial                                                                    | [ EXPLORA...](https://databank.worldbank.org/home.aspx)
+| -------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| Instituto Nacional de Estadística "INE"                                          | [ EXPLORA...] (https://www.ine.gob.bo/)
+| -------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| UNICEF                                                                           | [ EXPLORA...] (https://data.unicef.org/)                              |
+| -------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
