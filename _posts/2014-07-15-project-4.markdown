@@ -4,7 +4,7 @@ subtitle:
 layout: default
 modal-id: 4
 date: 2014-07-15
-thumbnail: pautas.png
+thumbnail: boletin.png
 alt: image-alt
 
 description: 
