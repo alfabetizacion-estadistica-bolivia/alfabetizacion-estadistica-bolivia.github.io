@@ -1,20 +1,16 @@
 ---
-title: BOLETÍN DE NOTICIAS
+title: 
 subtitle: 
 layout: default
 modal-id: 7
 date: 2014-07-12
-thumbnail: pautas.png
+thumbnail: 
 alt: image-alt
 
 description: 
 
 ---
 
-<html>
-<body>
-<embed src="img/guia_2020_2021.pdf" width="950" height="650">
-</body>
-</html>
+
 
 

@@ -1,5 +1,5 @@
 ---
-title: BOLETÍN DE NOTICIAS
+title: 
 subtitle: 
 layout: default
 modal-id: 9
@@ -11,10 +11,5 @@ description:
 
 ---
 
-<html>
-<body>
-<embed src="img/guia_2020_2021.pdf" width="950" height="650">
-</body>
-</html>
 
 
