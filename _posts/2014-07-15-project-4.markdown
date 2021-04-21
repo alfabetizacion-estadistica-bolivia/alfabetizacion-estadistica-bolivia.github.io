@@ -14,17 +14,9 @@ description:
 <html>
 <body>
 <embed src="img/poster/ISLP_Bolivia_B3.pdf" width="950" height="650">
-</body>
-</html>
 
-<html>
-<body>
 <embed src="img/poster/ISLP_Bolivia_clausura.pdf" width="950" height="650">
-</body>
-</html>
 
-<html>
-<body>
 <embed src="img/poster/ISLP_Bolivia_B1.pdf" width="950" height="650">
 </body>
 </html>
