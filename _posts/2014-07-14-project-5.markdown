@@ -1,48 +1,20 @@
 ---
-title: PÓSTERS DE LA COMPETENCIA PASADA
+title: PAUTAS PARA HACER UN POSTER ESTADÍSTICO
 subtitle: 
 layout: default
 modal-id: 5
-date: 2014-07-15
-thumbnail: posters.png
+date: 2014-07-14
+thumbnail: pautas.png
+alt: image-alt
 
 description: 
 
 ---
 
-A continuación presentaremos los posters ganadores de la competencia nacional pasada.
-
-<br>
-
- <div class="row text-left">
-                <div class="col-md-6">
-                    <img class="img-rounded img-responsibe" src="img/poster/bernoulli1.png" alt="" width="300" height="350">
-                    <h4 class="service-heading">1. Primer lugar en la categoría Bernoulli</h4>
-                </div>
-                <div class="col-md-6">
-                    <img class="img-rounded img-responsibe" src="img/poster/poisson1.jpg" alt="" width="380" height="300">
-                    <h4 class="service-heading">2. Primer lugar en la categoria Poisson</h4>
-                </div>
-               
-            </div>	
-			
-<br>
-
- <div class="row text-center">
-                <div class="col-md-6">
-                    <img class="img-rounded img-responsibe" src="img/poster/gauss1.png" alt="" width="360" height="260">
-                    <h4 class="service-heading">3. Primer lugar en la categoría Gauss</h4>
-					
-                </div>
-                <div class="col-md-6">
-                    <img class="img-rounded img-responsibe" src="img/poster/gauss2.png" alt="" width="360" height="260">
-                     <h4 class="service-heading"> 4. Segundo lugar en la categoría Gauss</h4> 
-                </div>
-               
-            </div>
-
-
-Para ver los posters de la competencia internacional pasada puede visitar la página: 
-<a href="http://iase-web.org/islp/Poster_Competition_2018-2019.php?p=Posters"> http://iase-web.org/islp/Poster_Competition_2018-2019.php?p=Posters </a>
+<html>
+<body>
+<embed src="img/guia_2020_2021.pdf" width="950" height="650">
+</body>
+</html>
 
 

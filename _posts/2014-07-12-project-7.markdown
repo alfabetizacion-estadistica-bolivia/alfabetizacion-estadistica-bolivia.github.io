@@ -1,0 +1,46 @@
+---
+title: PREMIACIÓN
+subtitle: 
+layout: default
+modal-id: 7
+date: 2014-07-12
+thumbnail: premio.png
+
+description: 
+---
+
+			
+Se premiaran a los 3 primeros lugares en cada categoría, los premios consisten en:
+
+<h4> <span style="color:darkcyan">Categoría Bernoulli:</span> </h4>
+
+- Primer lugar: Pack educativo I.
+
+- Segundo lugar: Pack educativo II.
+
+- Tercer lugar: Pack educativo III.
+
+<h4> <span style="color:darkcyan"> Categoría Poisson:</span> </h4>
+
+- Primer lugar: Pack educativo I.
+
+- Segundo lugar: Pack educativo II.
+
+- Tercer lugar: Pack educativo III.
+
+<h4> <span style="color:darkcyan"> Categoría Gauss: </span> </h4>
+
+- Primer lugar: Pack educativo I.
+
+- Segundo lugar: Pack educativo II.
+
+- Tercer lugar: Pack educativo III.
+
+
+				
+<h4> <span style="color:darkslateblue"> Los primeros lugares en cada categoría pasaran a representar a Bolivia en la competencia Internacional </span> </h4>
+
+
+En la Competencia Internacional de Poster Estadístico, los premios para las categorías Bernoulli y Poisson: 450 € 1er lugar, 350 € 2do lugar, 200 € 3er lugar. En la categoría Gauss, el premio para el ganador internacional es de € 2000. Además, el JMP de SAS recompensará con una mención honorífica al equipo de la universidad, que mejor aplicó el software JMP en su trabajo.
+
+Los ganadores de la competencia internacional se anunciarán y sus posters se mostrarán en el 63º Congreso Mundial de la Estadística del ISI de los Paises Bajos , en el mes de julio del año 2021.

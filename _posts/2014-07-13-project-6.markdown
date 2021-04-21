@@ -1,46 +1,48 @@
 ---
-title: PREMIACIÓN
+title: PÓSTERS DE LA COMPETENCIA PASADA
 subtitle: 
 layout: default
 modal-id: 6
-date: 2014-07-14
-thumbnail: premio.png
+date: 2014-07-13
+thumbnail: posters.png
 
 description: 
+
 ---
 
+A continuación presentaremos los posters ganadores de la competencia nacional pasada.
+
+<br>
+
+ <div class="row text-left">
+                <div class="col-md-6">
+                    <img class="img-rounded img-responsibe" src="img/poster/bernoulli1.png" alt="" width="300" height="350">
+                    <h4 class="service-heading">1. Primer lugar en la categoría Bernoulli</h4>
+                </div>
+                <div class="col-md-6">
+                    <img class="img-rounded img-responsibe" src="img/poster/poisson1.jpg" alt="" width="380" height="300">
+                    <h4 class="service-heading">2. Primer lugar en la categoria Poisson</h4>
+                </div>
+               
+            </div>	
 			
-Se premiaran a los 3 primeros lugares en cada categoría, los premios consisten en:
+<br>
 
-<h4> <span style="color:darkcyan">Categoría Bernoulli:</span> </h4>
-
-- Primer lugar: Pack educativo I.
-
-- Segundo lugar: Pack educativo II.
-
-- Tercer lugar: Pack educativo III.
-
-<h4> <span style="color:darkcyan"> Categoría Poisson:</span> </h4>
-
-- Primer lugar: Pack educativo I.
-
-- Segundo lugar: Pack educativo II.
-
-- Tercer lugar: Pack educativo III.
-
-<h4> <span style="color:darkcyan"> Categoría Gauss: </span> </h4>
-
-- Primer lugar: Pack educativo I.
-
-- Segundo lugar: Pack educativo II.
-
-- Tercer lugar: Pack educativo III.
+ <div class="row text-center">
+                <div class="col-md-6">
+                    <img class="img-rounded img-responsibe" src="img/poster/gauss1.png" alt="" width="360" height="260">
+                    <h4 class="service-heading">3. Primer lugar en la categoría Gauss</h4>
+					
+                </div>
+                <div class="col-md-6">
+                    <img class="img-rounded img-responsibe" src="img/poster/gauss2.png" alt="" width="360" height="260">
+                     <h4 class="service-heading"> 4. Segundo lugar en la categoría Gauss</h4> 
+                </div>
+               
+            </div>
 
 
-				
-<h4> <span style="color:darkslateblue"> Los primeros lugares en cada categoría pasaran a representar a Bolivia en la competencia Internacional </span> </h4>
+Para ver los posters de la competencia internacional pasada puede visitar la página: 
+<a href="http://iase-web.org/islp/Poster_Competition_2018-2019.php?p=Posters"> http://iase-web.org/islp/Poster_Competition_2018-2019.php?p=Posters </a>
 
 
-En la Competencia Internacional de Poster Estadístico, los premios para las categorías Bernoulli y Poisson: 450 € 1er lugar, 350 € 2do lugar, 200 € 3er lugar. En la categoría Gauss, el premio para el ganador internacional es de € 2000. Además, el JMP de SAS recompensará con una mención honorífica al equipo de la universidad, que mejor aplicó el software JMP en su trabajo.
-
-Los ganadores de la competencia internacional se anunciarán y sus posters se mostrarán en el 63º Congreso Mundial de la Estadística del ISI de los Paises Bajos , en el mes de julio del año 2021.

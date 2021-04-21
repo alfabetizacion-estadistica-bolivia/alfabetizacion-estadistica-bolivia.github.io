@@ -1,5 +1,5 @@
 ---
-title: PAUTAS PARA HACER UN POSTER ESTADÍSTICO
+title: BOLETÍN DE NOTICIAS
 subtitle: 
 layout: default
 modal-id: 4
