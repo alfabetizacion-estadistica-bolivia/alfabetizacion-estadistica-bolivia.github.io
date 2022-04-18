@@ -278,6 +278,7 @@ header {
 }
 
 header .intro-text {
+    color: #fff;
     padding-top: 70px;
     padding-bottom: 50px;
 }
