@@ -84,6 +84,6 @@ A continuación se mostraran los criterios de evaluación  que serán considerad
 
 <html>
 <body>
-<embed src="img/criterios_2020_2021.pdf" width="950" height="650">
+<embed src="img/Criterios_a_Jusgar2022.pdf" width="950" height="650">
 </body>
 </html>
