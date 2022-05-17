@@ -11,6 +11,6 @@ description: Afiche oficial de la competencia
 <html>
 <body>
  Afiche oficial de la competencia 
-<embed src="img/afiche2020.pdf" width="950" height="650">
+<embed src="img/afiche2022.pdf" width="950" height="650">
 </body>
 </html>
