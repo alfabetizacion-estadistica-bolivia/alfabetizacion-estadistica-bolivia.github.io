@@ -2,7 +2,7 @@
 title: PAUTAS PARA HACER UN POSTER ESTADÍSTICO
 subtitle: 
 layout: default
-modal-id: 5
+modal-id: 3
 date: 2014-07-14
 thumbnail: pautas.png
 alt: image-alt
