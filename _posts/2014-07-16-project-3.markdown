@@ -1,5 +1,5 @@
 ---
-title: BASES DE DATOS
+title: BASE DE DATOS
 subtitle:
 layout: default
 modal-id: 3
