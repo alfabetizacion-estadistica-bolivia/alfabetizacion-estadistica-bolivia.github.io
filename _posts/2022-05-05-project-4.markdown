@@ -2,8 +2,8 @@
 title: BASE DE DATOS
 subtitle:
 layout: default
-modal-id: 5
-date: 2014-07-16
+modal-id: 4
+date: 2022-05-05
 thumbnail: bases.png
 description: 
 

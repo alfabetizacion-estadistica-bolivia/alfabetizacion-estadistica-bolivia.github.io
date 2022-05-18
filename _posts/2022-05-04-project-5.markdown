@@ -2,8 +2,8 @@
 title: PÓSTERS DE LA COMPETENCIA PASADA
 subtitle: 
 layout: default
-modal-id: 6
-date: 2014-07-13
+modal-id: 5
+date: 2022-05-04
 thumbnail: posters.png
 
 description: 

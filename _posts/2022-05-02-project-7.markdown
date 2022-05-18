@@ -2,8 +2,8 @@
 title: BOLETÍN DE NOTICIAS
 subtitle: 
 layout: default
-modal-id: 4
-date: 2014-07-15
+modal-id: 7
+date: 2022-05-02
 thumbnail: boletin.png
 alt: image-alt
 

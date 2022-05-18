@@ -2,8 +2,8 @@
 title: PREMIACIÓN
 subtitle: 
 layout: default
-modal-id: 7
-date: 2014-07-12
+modal-id: 6
+date: 2022-05-03
 thumbnail: premio.png
 
 description: 

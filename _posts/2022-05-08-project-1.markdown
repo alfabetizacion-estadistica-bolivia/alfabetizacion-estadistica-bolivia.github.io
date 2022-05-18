@@ -3,7 +3,7 @@ title: CONVOCATORIA
 subtitle: 
 layout: default
 modal-id: 1
-date: 2018-06-05
+date: 2022-05-08
 thumbnail: convocatoria.png
 description: Afiche oficial de la competencia
 ---

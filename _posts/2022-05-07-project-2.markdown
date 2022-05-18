@@ -3,7 +3,7 @@ title:  REGLAS DE LA COMPETENCIA
 subtitle: 
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2022-05-07
 thumbnail: normas.png
 
 
