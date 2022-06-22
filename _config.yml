@@ -11,7 +11,7 @@ people:
 
 - name: Fundación Aru
   pic: arulogo
-  position: Instituto de Investigación
+  position: Instituto de Investigació
   social:
     - title: twitter
       url: https://twitter.com/arufoundation?lang=es
@@ -19,6 +19,7 @@ people:
       url: https://www.facebook.com/FundacionARU
     - title: dribbble
       url: https://www.aru.org.bo/
+	  
 - name: Carrera de Estadística
   pic: stat
   position: Centro de Formación Superior
