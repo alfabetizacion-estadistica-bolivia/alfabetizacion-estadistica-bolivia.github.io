@@ -24,8 +24,8 @@ people:
   pic: stat
   position: Centro de Formación Superior
   social:
-  #  - title: twitter
-  #    url: https://twitter.com/ineoficialbo?lang=es
+    - title: twitter
+      url: https://twitter.com/ineoficialbo?lang=es
     - title: facebook
       url: https://www.facebook.com/estadisticaumsa
     - title: dribbble
