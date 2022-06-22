@@ -19,8 +19,14 @@ people:
       url: https://www.facebook.com/FundacionARU
     - title: dribbble
       url: https://www.aru.org.bo/
-	  
-
+- name: Carrera de Estadística
+  pic: stat
+  position: Casa de Estudio Superior
+  social:
+    - title: facebook
+      url: https://www.facebook.com/estadisticaumsa
+    - title: dribbble
+      url: https://estadistica.umsa.bo/	
 #- name: Instituto Nacional de Estadística
 #  pic: ine
 #  position: Estado Plurinacional de Bolivia
