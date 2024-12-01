@@ -113,3 +113,6 @@
 .slick-arrow.slick-hidden {
     display: none;
 }
+#fondo1 {
+    opacity: 0.5; /* Ajusta este valor según tu preferencia */
+}
